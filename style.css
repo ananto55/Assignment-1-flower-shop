@@ -117,6 +117,65 @@ margin-bottom: 24px;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
-    margin-bottom: 48px;
+   
     margin-right: 663;
-    
+}
+.container-3{
+    display: flex;
+    margin:48px 240px 195px 240px ;
+    justify-content: space-between;
+    align-items: center;
+}
+.image1{
+    width: 310px;
+height: 428px;
+padding: 110px 78px 0px 76px;
+background-color:#A7216226 ;
+border-radius: 300px 300px 0 0;
+
+}
+.image2{
+    width: 370px;
+height: 370px;
+padding: 117px 47px 51px 47px;
+background-color:#0597A026 ;
+border-radius: 300px 300px 0 0;
+
+}
+.image3{
+    width: 314px;
+    height: 471px; 
+    padding: 67px 75px 0px 75px;
+background-color:#477D1126 ;
+border-radius: 300px 300px 0 0;
+}
+    .text1{
+        color: #272727;
+        text-align: center;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 35px;
+        text-decoration-line: underline;  
+    }
+    .text2{
+        color: #272727;
+        text-align: center;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 35px;
+        text-decoration-line: underline;  
+    }
+    .text3{
+        color: #272727;
+        text-align: center;
+        font-family: Lato;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 35px;
+        text-decoration-line: underline;  
+    }
