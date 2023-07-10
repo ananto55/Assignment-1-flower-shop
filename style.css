@@ -1,0 +1,122 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+/* ................................ */
+
+.logo>img {
+    height: 170px;
+    margin-left: 20px;
+}
+
+nav li {
+    list-style: none;
+
+    margin-right: 30px;
+
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    text-decoration: none;
+}
+nav ul {
+    display: flex;
+
+}
+.top-btn-container a {
+    color: #E55473;
+    font-size: 20px;
+
+}
+/* ................................. */
+
+
+/* container-1 */
+.container-1 {
+    display: flex;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    width: 1920px;
+    height: 850px;
+    margin-bottom: 178px;
+
+
+}
+
+.left-side-1 {
+    margin-left: 240px;
+
+}
+
+.left-side-1-child-1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    width: 708px;
+}
+
+.right-side-1 {
+    width: 635px;
+    height: 800px;
+
+}
+
+.left-side-1-child-2 {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    width: 708px;
+
+}
+button:hover{
+    cursor: pointer;
+}
+button {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    border: none;
+}
+/* main cointainer-2 */
+.container-2{
+    
+}
+.container-2-t1{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+margin-bottom: 24px;
+}
+.container-2-t2{
+    
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 48px;
+    margin-right: 663;
+    
